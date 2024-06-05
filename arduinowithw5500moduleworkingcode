@@ -1,3 +1,4 @@
+// ye code maine angad ko diya hu iska hex file 5 june 2024 ko jo ki work kar rha tha lekin isme reset ka issue tha. jo ki hume resolve krna hai
 #include <EEPROM.h>
 #include <SPI.h>
 #include <Ethernet.h>
